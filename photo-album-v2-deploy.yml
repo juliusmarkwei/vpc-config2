@@ -1,0 +1,7 @@
+template-file-path: template.yml
+parameters:
+  DBUsername: juliusmarkwei
+  DBPassword: hgdsopfj98364879nc0*&^*764565
+  DBName: photo-album
+  DBPort: '5432'
+tags: {}
